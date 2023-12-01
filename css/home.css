@@ -179,7 +179,7 @@ body {
   }
   .open-popup{
     visibility: visible;
-    top: 135%;
+    top: 125%;
     transform: translate(-50%,-50%)scale(1);
   }
   .popup img{
